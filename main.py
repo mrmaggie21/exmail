@@ -1,5 +1,5 @@
 print('--------------------------')
-print('SEPADOR DE EMAIL BY MR.ROBOT')
+print('SEPADOR DE EMAIL BY mrmaggie21')
 print('--------------------------')
 
 
